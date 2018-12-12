@@ -1,5 +1,0 @@
-Hi there this is the NEW Cole.txt in the branch Cole 2.0
-
-Well this is a test when I don't create a seperate branch 
-
-ANother test 
