@@ -1,0 +1,4 @@
+open cmd and redirect to the current directory with cd C:\Users\User\todo-list - on my computer anyway bc thats where my environment is stored
+command is npm start
+then it will open a new tab in your browser displaying what your website currently is
+ez
